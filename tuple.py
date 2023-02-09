@@ -6,3 +6,6 @@ print(my_tuple)
 
 print(my_tuple.count("Dhruv"))
 print(my_tuple.index("OM"))
+
+a=(1,2,3,4)
+print(a[1:-1])

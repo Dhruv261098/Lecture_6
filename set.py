@@ -23,4 +23,3 @@ print(my_set_1)
 
 my_set_2.copy()
 print(my_set_2)
-
